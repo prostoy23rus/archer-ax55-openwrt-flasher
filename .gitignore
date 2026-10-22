@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+images/*.ubi
+images/*.bin
+!images/.gitkeep
+.vscode/
+.idea/
