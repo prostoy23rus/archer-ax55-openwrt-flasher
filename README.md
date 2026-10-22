@@ -1,6 +1,6 @@
 # TP-Link Archer AX55 v1 — OpenWrt Flasher
 
-Программный способ прошивки роутера **TP-Link Archer AX55 v1 / v1.20** в **OpenWrt** без вскрытия корпуса, без паяльника и без UART.
+Программный способ прошивки роутера **TP-Link Archer AX55 v1 / v1.20** в **OpenWrt**
 
 ---
 
